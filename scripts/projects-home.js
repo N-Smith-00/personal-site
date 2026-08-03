@@ -10,21 +10,21 @@ const projects = [
         id: "through-the-labyrinth",
         title: "Through the Labyrinth",
         description: "A roguelike game focused on creating unique experiences through perspective based gameplay",
-        image: "labyrinth.png",
+        image: "labyrinth/labyrinth.png",
         technologies: ["Unity", "C#"],
     },
     {
         id: "trial-of-the-warden",
         title: "Trial of the Warden",
         description: "A virtual reality game where the player must defeat a boss to escape its prison",
-        image: "trial-sc.png",
+        image: "trial/trial-sc.png",
         technologies: ["Unity", "C#", "Meta XR"],
     },
     {
         id: "barbell-calc",
         title: "Barbell Calculator",
         description: "A tool for calculating plate configurations on barbells",
-        image: "barbell-calc.png",
+        image: "barbell-calc/barbell-calc.png",
         technologies: ["HTML", "CSS", "Python", "Flask"]
     }
 ];

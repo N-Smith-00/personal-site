@@ -1,0 +1,26 @@
+.project-description {
+    flex: 0 0 50%;
+    height: fit-content;
+    background-color: #707070;
+    color: #0E1113;
+    border-radius: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+}
+
+.project-description h2 {
+    text-shadow: 1px 1px 2px #25650C
+}
+
+.project-description p {
+    width: 75%;
+    font-size: large;
+}
+
+.images img {
+    border-radius: 1rem;
+    width: 100%;
+}
