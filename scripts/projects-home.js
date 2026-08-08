@@ -1,5 +1,12 @@
 const projects = [
     {
+        id: "waiver-system",
+        title: "Waiver System",
+        description: "A multi part waiver system with an outward facing form, internal storage, and local lookup functions.",
+        image: "",
+        technologies: ["HTML", "CSS", "Python", "FastAPI", "Cloudflare"],
+    },
+    {
         id: "",
         title: "This Webpage",
         description: "My personal website to showcase my projects, education, and experience",

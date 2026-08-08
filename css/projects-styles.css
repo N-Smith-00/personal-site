@@ -2,7 +2,7 @@
     flex: 0 0 50%;
     height: fit-content;
     background-color: #707070;
-    color: #0E1113;
+    color: #F4F4F5;
     border-radius: 1rem;
     display: flex;
     flex-direction: column;
@@ -12,7 +12,7 @@
 }
 
 .project-description h2 {
-    text-shadow: 1px 1px 2px #25650C
+    text-shadow: 1px 1px 2px #0E1113;
 }
 
 .project-description p {
